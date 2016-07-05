@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SHOP-LIST</string>
+    <string name="btnScan">ESCANER</string>
+    <string name="btnCart">CARRITO DE COMPRAS</string>
+    <string name="btnHistory">HISTORIAL</string>
+
+
+</resources>
